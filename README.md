@@ -6,7 +6,7 @@
 * [Technologies](#technologies)
 * [How-to run-on-localhost](#how-to-run-on-local-host)
 * [Screenshots](#screenshots)
-* *[Video-Wlk-through](#video-walkthrough)
+* [Video-Wlk-through](#video-walkthrough)
 
 ## Intro
 
