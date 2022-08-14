@@ -86,7 +86,5 @@ The technologies used to create this app are
 https://watch.screencastify.com/v/BjkUs5mPyzKIaNky1NWP
 
 
-
-Github Repo:https://github.com/bitcoin507/React-app
-Github pages: https://bitcoin507.github.io/React-app/
+The Github repo can be found here: https://github.com/bitcoin507/React-app2
 
