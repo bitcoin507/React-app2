@@ -4,7 +4,7 @@
 
 * [Intro](#intro)
 * [Technologies](#technologies)
-* [How-to run-on-localhost](#how to run on local host)
+* [How-to run-on-localhost](#how-to-run-on-local-host)
 * [Screenshots](#screenshots)
 
 ## Intro
