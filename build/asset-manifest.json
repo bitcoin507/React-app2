@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d16d64ac.css",
+    "main.js": "/static/js/main.ae36d76e.js",
+    "static/js/787.8ec45bef.chunk.js": "/static/js/787.8ec45bef.chunk.js",
+    "static/media/Cap.png": "/static/media/Cap.6f714625dc7212920d91.png",
+    "static/media/SqlLogo.png": "/static/media/SqlLogo.85fb38d6773862e917f4.png",
+    "static/media/MongoDBLogo.png": "/static/media/MongoDBLogo.1df44ece8cf851cecf69.png",
+    "static/media/ReactLogo.png": "/static/media/ReactLogo.37940586dd863909ffca.png",
+    "static/media/TailwindLogo.png": "/static/media/TailwindLogo.36b2728bf0d14b7b7576.png",
+    "static/media/JsLogo.png": "/static/media/JsLogo.db393457bf6303d846d6.png",
+    "index.html": "/index.html",
+    "main.d16d64ac.css.map": "/static/css/main.d16d64ac.css.map",
+    "main.ae36d76e.js.map": "/static/js/main.ae36d76e.js.map",
+    "787.8ec45bef.chunk.js.map": "/static/js/787.8ec45bef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d16d64ac.css",
+    "static/js/main.ae36d76e.js"
+  ]
+}
