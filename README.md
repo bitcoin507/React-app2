@@ -6,6 +6,7 @@
 * [Technologies](#technologies)
 * [How-to run-on-localhost](#how-to-run-on-local-host)
 * [Screenshots](#screenshots)
+* *[Video-Wlk-through](#video-walkthrough)
 
 ## Intro
 
@@ -80,6 +81,9 @@ The technologies used to create this app are
 *After clicking "Get in touch" button your email client will open up and populate my contact info
 
 ![contact](https://user-images.githubusercontent.com/39675578/184532621-f8662892-87e7-416a-88eb-468ed00f0e99.png)
+
+## Video-Walkthrough
+https://watch.screencastify.com/v/BjkUs5mPyzKIaNky1NWP
 
 
 
